@@ -1,8 +1,6 @@
-# Hosted Project Link :
-
-https://onlinevideosharingapp.netlify.app/
-
 # Project Name : Youtube Clone
+
+See Live Working Project Here- https://onlinevideosharingapp.netlify.app/
 
 # About Project:
 

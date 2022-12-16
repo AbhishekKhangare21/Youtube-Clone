@@ -1,10 +1,10 @@
-# Project Name : Youtube Clone
+# Project Name :- Youtube Clone
 
 See Live Working Project Here- https://youtubeclonebyak.netlify.app
 
-# About Project:
+# About Project:-
 
-1)Youtube clone comes under online video sharing app category that will fetch the data
+1)Youtube clone is an online video sharing app category that will fetch the data
 from YouTube Data API and render it using React.
 
 2)It has a features like searching, video pause, resume, and it

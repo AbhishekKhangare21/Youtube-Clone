@@ -1,3 +1,20 @@
+# Hosted Project Link :
+
+https://onlinevideosharingapp.netlify.app/
+
+# Project Name : Youtube Clone
+
+# About Project:
+
+1)Youtube clone comes under online video sharing app category that will fetch the data
+from YouTube Data API and render it using React.
+
+2)It has a features like searching, video pause, resume, and it
+also works in small devices like mobile and tablets
+
+3)It is a single page application hence doesn't reload the page
+when switch from one component to other
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

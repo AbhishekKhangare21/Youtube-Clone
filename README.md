@@ -5,7 +5,7 @@ See Live Working Project Here- https://youtubeclonebyak.netlify.app
 # About Project :-
 
 1)Youtube clone is an online video sharing app that will fetch the data
-from YouTube Data API and render it using React.
+from YouTube Data API and render it using React Js.
 
 2)It has a features like searching, video pause, resume, and it
 also works in small devices like mobile and tablets
